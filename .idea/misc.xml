@@ -10,8 +10,10 @@
         <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
         <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/drawable/borderbackground.xml" value="0.2555" />
         <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
-        <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/register.xml" value="0.25" />
+        <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/activity_main.xml" value="0.2530612244897959" />
+        <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/activity_register.xml" value="0.15052083333333333" />
+        <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/activity_result.xml" value="0.15052083333333333" />
+        <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/register.xml" value="0.2198952879581152" />
         <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/result.xml" value="0.25" />
         <entry key="..\:/NHATKHUONG/LTTBDB/FireBase/app/src/main/res/layout/singin.xml" value="0.264" />
       </map>
