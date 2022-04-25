@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -29,6 +30,7 @@ public class Register extends AppCompatActivity {
 
         TextView txtEmail = findViewById(R.id.txt_email_register);
         TextView txtPassword = findViewById(R.id.txt_password_register);
+        EditText txtRePassword = findViewById(R.id.txt_repassword_register);
 
         Button btnRegister = findViewById(R.id.btn_register);
         Button btnLoginByGoogle = findViewById(R.id.btnloginwithgoogle);
@@ -36,7 +38,13 @@ public class Register extends AppCompatActivity {
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                createAccount(txtEmail.getText().toString(),txtPassword.getText().toString());
+
+//                if(txtPassword.getText().toString().equals(txtRePassword.getText().toString())){
+                    createAccount(txtEmail.getText().toString(),txtPassword.getText().toString());
+
+
+
+
             }
         });
 
